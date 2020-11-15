@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+
+<BorderPane fx:id="borderPane" maxWidth="670.0" prefHeight="740.0" prefWidth="670.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.test.myjavafx.MyFxController">
+    <top>
+        <HBox alignment="CENTER_LEFT" prefHeight="40.0" prefWidth="800.0" BorderPane.alignment="CENTER">
+
+        </HBox>
+    </top>
+    <bottom>
+        <HBox alignment="CENTER" prefHeight="50.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+
+        </HBox>
+    </bottom>
+</BorderPane>
+
+
+
